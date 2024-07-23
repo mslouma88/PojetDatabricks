@@ -1,4 +1,4 @@
-## Projet2 : Analyse des données de ventes sous DataBricks 📊
+## Projet : Analyse des données de ventes sous DataBricks 📊
 ### Contexte
 La Direction des ventes de LatDior Data cherche à exploiter leurs données de transactions pour mieux comprendre les performances de vente de leurs produits à travers différents pays. Pour ce faire, ils ont besoin d'un Data Analyste capable d'analyser ces données en utilisant Apache Spark sous la plateforme DataBricks.
 
